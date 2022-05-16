@@ -1,2 +1,2 @@
 # Named-Entity-Recognition-using-Spacy
-T
+In this project data was extracted from twitter, facebook and various other news articles. The aim was to find out the names of the event, place where it happened and the name of the organization which organized this event. Once the events were extracted to confirm whether the events identified by Spacy are really events or not, data from wikipedia was extracted about that event and then machine learning model was trained on some already identified event data from wikipedia. The highest accuracy was given by SVM algorithm in corectly predicting whether the given data is event or not an event.
